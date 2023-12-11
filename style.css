@@ -30,3 +30,41 @@ a {
     justify-content: space-between;
     padding: 32px;
 }
+
+.media {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    padding: 90px;
+}
+
+.media h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.media p {
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.image {
+    margin-left: 50px;
+}
+
+button {
+    width: 110px;
+    border: none;
+    background: #3882f6;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.image img {
+    width: 500px;
+    height: 350px;
+}
