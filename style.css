@@ -142,3 +142,13 @@ h3 {
     border: white solid 3px;
     padding: 8px;
 }
+
+.footer {
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer p {
+    color: white;
+}
